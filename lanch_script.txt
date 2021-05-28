@@ -1,0 +1,1 @@
+python inference_webcam.py --logtostderr --file_extension png --depth --egomotion false --output_dir output --model_ckpt model/KITTI/model-199160
